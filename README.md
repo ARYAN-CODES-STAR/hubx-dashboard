@@ -1,0 +1,1 @@
+- This is a Dashboard component for statustical data platform and Have option to evaluating pie chart on 2 properties.
